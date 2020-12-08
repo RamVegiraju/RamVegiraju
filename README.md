@@ -5,7 +5,7 @@
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/ram-vegiraju-81272b162/)
   - :pencil2: [Medium](https://ram-vegiraju.medium.com/)
-  - :email: [Email](rav3sa@virginia.edu)
+  - :email: [Email](mailto:rav3sa@virginia.edu?subject=[GitHub]%20Source%20Han%20Sans)
 
 <!--
 **RamVegiraju/RamVegiraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
