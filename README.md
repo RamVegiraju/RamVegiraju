@@ -1,11 +1,10 @@
 ### Hi there 👋, I'm Ram
 
-- :zap: I'm a senior at the University of Virginia graduating this fall. I have an interest in building Full-Stack ML/AI solutions.
+- :zap: I'm a senior at the University of Virginia graduating this fall. I have an interest in building Full-Stack ML/AI solutions. Learn more about me by visiting my [Portfolio](https://ramvegiraju.github.io/PersonalPortfolio/)!
 - :earth_africa: I love writing about interesting technical topics in my free time. Feel free to check out my latest [article](https://towardsdatascience.com/building-web-applications-with-streamlit-for-nlp-projects-cdc1cf0b38db).
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/ram-vegiraju-81272b162/)
-  - :pencil2: [Medium articles](https://ram-vegiraju.medium.com/)
-  - :speaker: [Podcast](https://medium.com/@theartistsofdatascience/why-we-should-be-more-like-winnie-the-pooh-khuyen-tran-on-the-artists-of-data-science-c610c91d4c14)
+  - :pencil2: [Medium](https://ram-vegiraju.medium.com/)
 
 <!--
 **RamVegiraju/RamVegiraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
