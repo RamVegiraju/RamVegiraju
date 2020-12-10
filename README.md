@@ -7,7 +7,6 @@
   - :pencil2: [Medium](https://ram-vegiraju.medium.com/)
   - :email: [Email](mailto:rav3sa@virginia.edu?subject=[GitHub]%20Source%20Han%20Sans)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamVegiraju)](https://github.com/RamVegiraju/github-readme-stats)
 <!--
 **RamVegiraju/RamVegiraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
