@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ram
 
-- :zap: I'm a senior at the University of Virginia graduating in Fall 2020. I have an interest in building Full-Stack ML/AI solutions. Learn more about me by visiting my [Portfolio](https://ramvegiraju.github.io/PersonalPortfolio/)!
+- :zap: I'm an incoming Solutions Architect at Amazon. I have an interest in building Full-Stack ML/AI solutions. Learn more about me by visiting my [Portfolio](https://ramvegiraju.github.io/PersonalPortfolio/)!
 - :earth_africa: I love writing about interesting technical topics in my free time. Feel free to check out my latest [article](https://towardsdatascience.com/using-aws-sagemakers-linear-learner-to-solve-regression-problems-36732d802ba6).
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/ram-vegiraju-81272b162/)
