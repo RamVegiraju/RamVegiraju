@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ram
 
 - :zap: I'm a Solutions Architect at Amazon. I have an interest in building Full-Stack ML/AI solutions. Learn more about me by visiting my [Portfolio](https://ramvegiraju.github.io/PersonalPortfolio/)!
-- :earth_africa: I love writing about interesting technical topics in my free time. Feel free to check out my latest [article](https://towardsdatascience.com/using-aws-sagemakers-linear-learner-to-solve-regression-problems-36732d802ba6).
+- :earth_africa: I love writing about interesting technical topics in my free time. Feel free to check out my latest [article](https://towardsdatascience.com/medical-ner-with-aws-comprehend-3f27db0a8255).
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/ram-vegiraju-81272b162/)
   - :pencil2: [Medium](https://ram-vegiraju.medium.com/)
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamVegiraju)](https://github.com/RamVegiraju/github-readme-stats)
--->
+
