@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Ram
 
 - :zap: I'm a Solutions Architect at Amazon. I have an interest in building Full-Stack ML/AI solutions. Learn more about me by visiting my [Portfolio](https://ramvegiraju.github.io/PersonalPortfolio/)!
-- :earth_africa: I love writing and teaching about interesting technical topics in my free time. Feel free to check out my latest [article](https://towardsdatascience.com/building-a-real-time-speech-to-text-react-application-using-aws-amplify-8befac6aca2c).
+- :earth_africa: I love writing and teaching about interesting technical topics in my free time. Feel free to check out my latest [article](https://medium.com/codex/how-to-work-with-aws-services-locally-8af42b350093).
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/ram-vegiraju-81272b162/)
-  - :pencil2: [Medium](https://medium.com/codex/how-to-work-with-aws-services-locally-8af42b350093)
+  - :pencil2: [Medium](https://ram-vegiraju.medium.com/)
   - :email: [Email](mailto:rav3sa@virginia.edu?subject=[GitHub]%20Source%20Han%20Sans)
   - 💬 [Wyzant](https://www.wyzant.com/tutor/profile)
 
