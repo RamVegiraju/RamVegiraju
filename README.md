@@ -4,7 +4,7 @@
 - :earth_africa: I love writing and teaching about interesting technical topics in my free time. Feel free to check out my latest [article](https://towardsdatascience.com/building-a-real-time-speech-to-text-react-application-using-aws-amplify-8befac6aca2c).
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/ram-vegiraju-81272b162/)
-  - :pencil2: [Medium](https://ram-vegiraju.medium.com/)
+  - :pencil2: [Medium](https://medium.com/codex/how-to-work-with-aws-services-locally-8af42b350093)
   - :email: [Email](mailto:rav3sa@virginia.edu?subject=[GitHub]%20Source%20Han%20Sans)
   - 💬 [Wyzant](https://www.wyzant.com/tutor/profile)
 
