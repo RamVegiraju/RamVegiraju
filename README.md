@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ram
 
 - :zap: I'm a ML Architect at AWS. I have an interest in building Full-Stack ML/AI solutions. Learn more about me by visiting my [Portfolio](https://ramvegiraju.github.io/PersonalPortfolio/)!
-- :earth_africa: I love writing and teaching about interesting technical topics in my free time. Feel free to check out my latest [article](https://ram-vegiraju.medium.com/autoscaling-sagemaker-real-time-endpoints-b1b6e6731c59).
+- :earth_africa: I love writing and teaching about interesting technical topics in my free time. Feel free to check out my latest [article](https://ram-vegiraju.medium.com/build-your-first-aws-cdk-project-18b1fee2ed2d).
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/ram-vegiraju-81272b162/)
   - :pencil2: [Medium](https://ram-vegiraju.medium.com/)
