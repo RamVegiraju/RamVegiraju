@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ram
 
 - :zap: I'm a ML Architect at AWS on the SageMaker team. I have an interest in building Full-Stack ML/AI solutions at scale in the cloud.
-- :earth_africa: I love writing and teaching about interesting technical topics in my free time. Feel free to check out my latest [article](https://towardsdatascience.com/hosting-multiple-llms-on-a-single-endpoint-32eda0201832).
+- :earth_africa: I love writing and teaching about interesting technical topics in my free time. Feel free to check out my latest [article](https://towardsdatascience.com/building-an-llmops-pipeline-08d367b36d64).
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/ram-vegiraju-81272b162/)
   - :pencil2: [Medium](https://ram-vegiraju.medium.com/)
