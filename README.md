@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ram
 
 - :zap: I'm a ML Architect at AWS on the SageMaker team. I have an interest in building Full-Stack ML/AI solutions at scale in the cloud.
-- :earth_africa: I love writing and teaching about interesting technical topics in my free time. Feel free to check out my latest [article](https://medium.com/towards-data-science/an-introduction-to-fine-tuning-pre-trained-transformers-models-9ea546611664).
+- :earth_africa: I love writing and teaching about interesting technical topics in my free time. Feel free to check out my latest [article](https://medium.com/towards-data-science/optimized-deployment-of-mistral7b-on-amazon-sagemaker-real-time-inference-e820629f15dd).
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/ram-vegiraju-81272b162/)
   - :pencil2: [Medium](https://ram-vegiraju.medium.com/)
