@@ -5,6 +5,7 @@
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/ram-vegiraju-81272b162/)
   - :pencil2: [Medium](https://ram-vegiraju.medium.com/)
+  - :pencil2: [Substack](https://substack.com/@ramvegiraju)
   - :email: [Email](mailto:rav3sa@virginia.edu?subject=[GitHub]%20Source%20Han%20Sans)
   - 💬 [Wyzant](https://www.wyzant.com/tutor/profile)
 
