@@ -7,7 +7,7 @@
   - :pencil2: [Medium](https://ram-vegiraju.medium.com/)
   - :pencil2: [Substack](https://substack.com/@ramvegiraju)
   - :email: [Email](mailto:ramvegdev@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-  - 🐦: [X/Twitter](https://x.com/RamVegiraju)
+  - 🐦: [X](https://x.com/RamVegiraju)
   - 💬 [Wyzant](https://www.wyzant.com/tutor/profile)
 
 <!--
