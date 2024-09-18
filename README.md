@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ram
 
-- :zap: I'm a ML Architect at AWS on the SageMaker team. I have an interest in building Full-Stack ML/AI solutions at scale in the cloud.
+- :zap: I'm currently a ML Architect at AWS on the Amazon SageMaker team. I graduated in 2021 from the University of Virginia with a Bachelor's degree in Statistics and am currently pursuing my Master's in Computer Information & Technology at the University of Pennsylvania. I have an interest in building Full-Stack ML/AI solutions at scale in the cloud.
 - :earth_africa: I love writing and teaching about interesting technical topics in my free time. Feel free to check out my latest [article](https://aws.plainenglish.io/document-summarization-simplified-using-claude-3-5-sonnet-fc2097900c7f).
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/ram-vegiraju-81272b162/)
