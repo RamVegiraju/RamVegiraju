@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ram
 
 - :zap: I'm a ML Architect at AWS on the SageMaker team. I have an interest in building Full-Stack ML/AI solutions at scale in the cloud.
-- :earth_africa: I love writing and teaching about interesting technical topics in my free time. Feel free to check out my latest [article](https://medium.com/towards-data-science/using-generative-ai-to-curate-date-recommendations-cf12e3e26422).
+- :earth_africa: I love writing and teaching about interesting technical topics in my free time. Feel free to check out my latest [article](https://aws.plainenglish.io/document-summarization-simplified-using-claude-3-5-sonnet-fc2097900c7f).
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/ram-vegiraju-81272b162/)
   - :pencil2: [Medium](https://ram-vegiraju.medium.com/)
