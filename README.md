@@ -4,6 +4,7 @@
 - :earth_africa: I love writing and teaching about interesting technical topics in my free time. Feel free to check out my latest [article](https://aws.plainenglish.io/document-summarization-simplified-using-claude-3-5-sonnet-fc2097900c7f).
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/ram-vegiraju-81272b162/)
+  - :arrow_forward: [YouTube](https://www.youtube.com/@RamVegiraju/videos)
   - :pencil2: [Medium](https://ram-vegiraju.medium.com/)
   - :pencil2: [Substack](https://substack.com/@ramvegiraju)
   - :email: [Email](mailto:ramvegdev@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
