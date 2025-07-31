@@ -9,7 +9,7 @@
   - 🐦: [X](https://x.com/RamVegiraju)
   - :pencil2: [Substack](https://substack.com/@ramvegiraju)
   - :email: [Email](mailto:ramvegdev@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-  - 💬 [Wyzant](https://www.wyzant.com/tutor/profile)
+  - 💬 [Wyzant](https://www.wyzant.com/Tutors/VA/Ashburn/9856561)
 
 <!--
 **RamVegiraju/RamVegiraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
