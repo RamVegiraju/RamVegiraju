@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ram
 
 - :zap: I'm currently a ML Architect at Databricks. I previously worked at AWS for 5 years on the SageMaker Service team in a Field Engineering & Product role. I graduated in 2020 from the University of Virginia with a Bachelor's degree in Statistics and am currently pursuing my Master's in Computer Information & Technology at the University of Pennsylvania. I have an interest in building Full-Stack ML/AI solutions at scale in the cloud.
-- :earth_africa: I love writing and teaching about interesting technical topics in my free time. Feel free to check out my latest [article](https://towardsdatascience.com/load-testing-llmperf/) and [YouTube video](https://www.youtube.com/watch?v=vt6WkdJpvwk&t=3s).
+- :earth_africa: I love writing and teaching about interesting technical topics in my free time. Feel free to check out my latest [article](https://towardsdatascience.com/load-testing-llmperf/) and [YouTube video](https://www.youtube.com/watch?v=oLSqUqm7jqI).
 - 📫 How to find me:
   - :arrow_forward: [YouTube](https://www.youtube.com/@RamVegiraju/videos)
   - :office: [LinkedIn](https://www.linkedin.com/in/ram-vegiraju-81272b162/)
